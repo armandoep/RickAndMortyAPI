@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "electron": "^12.0.1"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "description": "App de Rick y Morty API",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Pérez",
+  "license": "ISC"
+}
